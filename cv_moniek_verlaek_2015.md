@@ -1,17 +1,17 @@
 ### Personalia
->**Naam**: Moniek Verlaek
-**Adres**: Schoenmakerstraat 23
+>**Naam**:                      Moniek Verlaek 
+**Adres**: 	                    Schoenmakerstraat 23 
 **Postcode en woonplaats**: 	5612 AC Eindhoven
-**Telefoonnummer**: 	06 15 06 77 51
-**E-mailadres**: 	[moniekverlaek@gmail.com](moniekverlaek@gmail.com)
-**Github**: [https://github.com/kniekske](https://github.com/kniekske)
-**Skype**: Moniek Verlaek
-**Geboortedatum**:  29 september 1984
-**Geboorteplaats**: 		Belfeld
-**Rijbewijs**: 		B
+**Telefoonnummer**: 	        06 15 06 77 51
+**E-mailadres**: 	            [moniekverlaek@gmail.com](moniekverlaek@gmail.com)
+**Github**:                     [https://github.com/kniekske](https://github.com/kniekske)
+**Skype**:                      Moniek Verlaek
+**Geboortedatum**:              29 september 1984
+**Geboorteplaats**: 	        Belfeld
+**Rijbewijs**: 		            B 
 
 ###Profiel
->EEnthousiaste Ruby on Rails newbie met aandacht voor kwaliteit, analytisch en besluitvaardig, zoekt een nieuwe uitdaging als junior Ruby on Rails developer.
+>Enthousiaste Ruby on Rails newbie met aandacht voor kwaliteit, analytisch en besluitvaardig, zoekt een nieuwe uitdaging als junior Ruby on Rails developer.
 
 ###Werkervaring
 >**Freelance webdeveloper**
